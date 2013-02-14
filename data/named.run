@@ -1,0 +1,601 @@
+reloading configuration succeeded
+reloading zones succeeded
+error (network unreachable) resolving './DNSKEY/IN': 2001:7fd::1#53
+error (network unreachable) resolving 'dlv.isc.org/DNSKEY/IN': 2001:500:71::30#53
+error (network unreachable) resolving './NS/IN': 2001:7fd::1#53
+error (network unreachable) resolving 'dlv.isc.org/DNSKEY/IN': 2001:4f8:0:2::19#53
+error (network unreachable) resolving 'ns1.isc.ultradns.net/A/IN': 2610:a1:1014::1#53
+error (network unreachable) resolving 'ns1.isc.ultradns.net/AAAA/IN': 2610:a1:1014::1#53
+error (network unreachable) resolving 'ns2.isc.ultradns.net/A/IN': 2610:a1:1016::1#53
+error (network unreachable) resolving 'ns2.isc.ultradns.net/AAAA/IN': 2610:a1:1016::1#53
+error (network unreachable) resolving 'ns1.isc.ultradns.net/A/IN': 2610:a1:1016::1#53
+error (network unreachable) resolving 'ns1.isc.ultradns.net/AAAA/IN': 2610:a1:1016::1#53
+error (network unreachable) resolving 'ns2.isc.ultradns.net/A/IN': 2610:a1:1015::1#53
+error (network unreachable) resolving 'ns2.isc.ultradns.net/AAAA/IN': 2610:a1:1015::1#53
+error (network unreachable) resolving 'ns1.isc.ultradns.net/A/IN': 2610:a1:1015::1#53
+error (network unreachable) resolving 'ns1.isc.ultradns.net/AAAA/IN': 2610:a1:1015::1#53
+error (network unreachable) resolving './DNSKEY/IN': 2001:500:2f::f#53
+error (network unreachable) resolving 'dlv.isc.org/DNSKEY/IN': 2001:500:60::30#53
+error (network unreachable) resolving './NS/IN': 2001:500:2f::f#53
+error (network unreachable) resolving './DNSKEY/IN': 2001:503:ba3e::2:30#53
+error (network unreachable) resolving './NS/IN': 2001:503:ba3e::2:30#53
+error (network unreachable) resolving './DNSKEY/IN': 2001:503:c27::2:30#53
+error (network unreachable) resolving 'dlv.isc.org/DNSKEY/IN': 2001:500:71::30#53
+error (network unreachable) resolving './NS/IN': 2001:503:c27::2:30#53
+error (network unreachable) resolving 'ns1.isc.ultradns.net/A/IN': 2610:a1:1014::1#53
+error (network unreachable) resolving 'ns1.isc.ultradns.net/A/IN': 2610:a1:1015::1#53
+error (network unreachable) resolving 'ns1.isc.ultradns.net/A/IN': 2001:502:f3ff::1#53
+error (network unreachable) resolving 'dlv.isc.org/DNSKEY/IN': 2001:500:71::30#53
+error (network unreachable) resolving 'dlv.isc.org/DNSKEY/IN': 2001:500:2c::254#53
+error (network unreachable) resolving 'dlv.isc.org/DNSKEY/IN': 2001:500:71::29#53
+error (network unreachable) resolving 'dlv.isc.org/DNSKEY/IN': 2001:500:40::1#53
+error (network unreachable) resolving 'ns.isc.afilias-nst.info/A/IN': 2001:503:c27::2:30#53
+error (network unreachable) resolving 'ns.isc.afilias-nst.info/AAAA/IN': 2001:503:c27::2:30#53
+error (network unreachable) resolving 'ns.isc.afilias-nst.info/A/IN': 2001:500:1b::1#53
+error (network unreachable) resolving 'ns.isc.afilias-nst.info/A/IN': 2001:500:1c::1#53
+error (network unreachable) resolving 'ns.isc.afilias-nst.info/A/IN': 2001:500:6::79#53
+error (network unreachable) resolving 'pdns6.ultradns.co.uk/AAAA/IN': 2001:502:f3ff::1#53
+error (network unreachable) resolving './DNSKEY/IN': 2001:500:2f::f#53
+error (network unreachable) resolving 'dlv.isc.org/DNSKEY/IN': 2001:500:2c::254#53
+error (network unreachable) resolving './NS/IN': 2001:500:2f::f#53
+error (network unreachable) resolving 'dlv.isc.org/DNSKEY/IN': 2001:500:60::30#53
+error (network unreachable) resolving 'dlv.isc.org/DNSKEY/IN': 2001:500:71::29#53
+error (network unreachable) resolving 'dlv.isc.org/DNSKEY/IN': 2001:4f8:0:2::20#53
+error (network unreachable) resolving 'pdns5.ultradns.info/A/IN': 2610:a1:1017::1#53
+error (network unreachable) resolving 'pdns5.ultradns.info/A/IN': 2610:a1:1016::1#53
+error (network unreachable) resolving 'pdns5.ultradns.info/A/IN': 2610:a1:1014::1#53
+error (network unreachable) resolving 'pdns5.ultradns.info/A/IN': 2001:502:4612::1#53
+error (network unreachable) resolving 'pdns5.ultradns.info/A/IN': 2610:a1:1015::1#53
+error (network unreachable) resolving './DNSKEY/IN': 2001:503:c27::2:30#53
+error (network unreachable) resolving './NS/IN': 2001:503:c27::2:30#53
+error (network unreachable) resolving 'dlv.isc.org/DNSKEY/IN': 2001:500:71::30#53
+error (network unreachable) resolving 'dlv.isc.org/DNSKEY/IN': 2001:4f8:0:2::19#53
+error (network unreachable) resolving 'dlv.isc.org/DNSKEY/IN': 2001:500:60::30#53
+error (network unreachable) resolving 'dlv.isc.org/DNSKEY/IN': 2001:500:71::30#53
+error (network unreachable) resolving 'dlv.isc.org/DNSKEY/IN': 2001:4f8:0:2::20#53
+error (network unreachable) resolving 'dlv.isc.org/DNSKEY/IN': 2001:500:71::30#53
+error (network unreachable) resolving './DNSKEY/IN': 2001:500:1::803f:235#53
+error (network unreachable) resolving 'dlv.isc.org/DNSKEY/IN': 2001:500:60::30#53
+error (network unreachable) resolving './NS/IN': 2001:500:1::803f:235#53
+error (network unreachable) resolving 'dlv.isc.org/DNSKEY/IN': 2001:500:71::30#53
+error (network unreachable) resolving 'dlv.isc.org/DNSKEY/IN': 2001:4f8:0:2::19#53
+error (network unreachable) resolving 'dlv.isc.org/DNSKEY/IN': 2001:500:60::30#53
+error (network unreachable) resolving 'dlv.isc.org/DNSKEY/IN': 2001:500:71::30#53
+error (network unreachable) resolving 'dlv.isc.org/DNSKEY/IN': 2001:500:60::29#53
+error (network unreachable) resolving 'dlv.isc.org/DNSKEY/IN': 2001:4f8:0:2::20#53
+error (network unreachable) resolving './DNSKEY/IN': 2001:503:ba3e::2:30#53
+error (network unreachable) resolving 'dlv.isc.org/DNSKEY/IN': 2001:500:71::30#53
+error (network unreachable) resolving './NS/IN': 2001:503:ba3e::2:30#53
+error (network unreachable) resolving './DNSKEY/IN': 2001:503:c27::2:30#53
+error (network unreachable) resolving 'dlv.isc.org/DNSKEY/IN': 2001:500:60::30#53
+error (network unreachable) resolving './NS/IN': 2001:503:c27::2:30#53
+error (network unreachable) resolving 'dlv.isc.org/DNSKEY/IN': 2001:4f8:0:2::19#53
+error (network unreachable) resolving 'dlv.isc.org/DNSKEY/IN': 2001:500:2c::254#53
+error (network unreachable) resolving './DNSKEY/IN': 2001:500:1::803f:235#53
+error (network unreachable) resolving 'dlv.isc.org/DNSKEY/IN': 2001:500:71::30#53
+error (network unreachable) resolving './NS/IN': 2001:500:1::803f:235#53
+error (network unreachable) resolving './DNSKEY/IN': 2001:503:c27::2:30#53
+error (network unreachable) resolving 'dlv.isc.org/DNSKEY/IN': 2001:4f8:0:2::19#53
+error (network unreachable) resolving './NS/IN': 2001:503:c27::2:30#53
+error (network unreachable) resolving './DNSKEY/IN': 2001:503:ba3e::2:30#53
+error (network unreachable) resolving './NS/IN': 2001:503:ba3e::2:30#53
+error (network unreachable) resolving 'dlv.isc.org/DNSKEY/IN': 2001:500:60::29#53
+error (network unreachable) resolving 'dlv.isc.org/DNSKEY/IN': 2001:500:71::29#53
+error (network unreachable) resolving 'ns1.isc.ultradns.net/A/IN': 2001:502:f3ff::1#53
+error (network unreachable) resolving 'ns1.isc.ultradns.net/AAAA/IN': 2001:502:f3ff::1#53
+error (network unreachable) resolving 'dlv.isc.org/DNSKEY/IN': 2001:500:60::30#53
+error (network unreachable) resolving 'dlv.isc.org/DNSKEY/IN': 2001:4f8:0:2::19#53
+error (network unreachable) resolving 'dlv.isc.org/DNSKEY/IN': 2001:4f8:0:2::19#53
+error (network unreachable) resolving 'dlv.isc.org/DNSKEY/IN': 2001:500:60::30#53
+error (network unreachable) resolving 'ns1.isc.ultradns.net/A/IN': 2610:a1:1014::1#53
+error (network unreachable) resolving 'ns1.isc.ultradns.net/AAAA/IN': 2610:a1:1014::1#53
+error (network unreachable) resolving 'ns2.isc.ultradns.net/A/IN': 2001:502:4612::1#53
+error (network unreachable) resolving 'ns2.isc.ultradns.net/AAAA/IN': 2001:502:4612::1#53
+error (network unreachable) resolving 'ns1.isc.ultradns.net/A/IN': 2001:502:4612::1#53
+error (network unreachable) resolving 'ns1.isc.ultradns.net/AAAA/IN': 2001:502:4612::1#53
+error (network unreachable) resolving 'ns2.isc.ultradns.net/A/IN': 2610:a1:1016::1#53
+error (network unreachable) resolving 'ns2.isc.ultradns.net/AAAA/IN': 2610:a1:1016::1#53
+error (network unreachable) resolving 'ns1.isc.ultradns.net/A/IN': 2610:a1:1016::1#53
+error (network unreachable) resolving 'ns1.isc.ultradns.net/AAAA/IN': 2610:a1:1016::1#53
+error (network unreachable) resolving 'ns1.isc.ultradns.net/A/IN': 2610:a1:1017::1#53
+error (network unreachable) resolving 'ns2.isc.ultradns.net/A/IN': 2610:a1:1017::1#53
+error (network unreachable) resolving 'ns2.isc.ultradns.net/AAAA/IN': 2610:a1:1017::1#53
+error (network unreachable) resolving 'ns2.isc.ultradns.net/A/IN': 2610:a1:1015::1#53
+error (network unreachable) resolving 'ns1.isc.ultradns.net/AAAA/IN': 2610:a1:1017::1#53
+error (network unreachable) resolving 'ns1.isc.ultradns.net/A/IN': 2610:a1:1015::1#53
+error (network unreachable) resolving 'ns2.isc.ultradns.net/AAAA/IN': 2610:a1:1015::1#53
+error (network unreachable) resolving 'ns1.isc.ultradns.net/AAAA/IN': 2610:a1:1015::1#53
+error (network unreachable) resolving 'ns1.isc.ultradns.net/A/IN': 2001:502:f3ff::1#53
+error (network unreachable) resolving 'ns1.isc.ultradns.net/AAAA/IN': 2001:502:f3ff::1#53
+error (network unreachable) resolving './DNSKEY/IN': 2001:503:ba3e::2:30#53
+error (network unreachable) resolving 'dlv.isc.org/DNSKEY/IN': 2001:4f8:0:2::19#53
+error (network unreachable) resolving './NS/IN': 2001:503:ba3e::2:30#53
+error (network unreachable) resolving './DNSKEY/IN': 2001:503:c27::2:30#53
+error (network unreachable) resolving 'dlv.isc.org/DNSKEY/IN': 2001:500:71::30#53
+error (network unreachable) resolving './NS/IN': 2001:503:c27::2:30#53
+error (network unreachable) resolving 'dlv.isc.org/DNSKEY/IN': 2001:500:60::30#53
+error (network unreachable) resolving './DNSKEY/IN': 2001:7fd::1#53
+error (network unreachable) resolving 'dlv.isc.org/DNSKEY/IN': 2001:500:e::1#53
+error (network unreachable) resolving './NS/IN': 2001:7fd::1#53
+error (network unreachable) resolving './DNSKEY/IN': 2001:500:2f::f#53
+error (network unreachable) resolving './NS/IN': 2001:500:2f::f#53
+error (network unreachable) resolving 'ns.isc.afilias-nst.info/A/IN': 2001:500:1c::1#53
+error (network unreachable) resolving 'ns.isc.afilias-nst.info/AAAA/IN': 2001:500:1c::1#53
+error (network unreachable) resolving 'ns.isc.afilias-nst.info/A/IN': 2a01:8840:8::1#53
+error (network unreachable) resolving 'ns.isc.afilias-nst.info/A/IN': 2a01:8840:7::1#53
+error (network unreachable) resolving 'ns.isc.afilias-nst.info/A/IN': 2a01:8840:9::1#53
+error (network unreachable) resolving 'dlv.isc.org/DNSKEY/IN': 2001:4f8:0:2::20#53
+error (network unreachable) resolving 'pdns5.ultradns.info/A/IN': 2610:a1:1016::1#53
+error (network unreachable) resolving 'pdns5.ultradns.info/AAAA/IN': 2610:a1:1016::1#53
+error (network unreachable) resolving './DNSKEY/IN': 2001:500:1::803f:235#53
+error (network unreachable) resolving 'dlv.isc.org/DNSKEY/IN': 2001:500:2c::254#53
+error (network unreachable) resolving './NS/IN': 2001:500:1::803f:235#53
+error (network unreachable) resolving './DNSKEY/IN': 2001:503:c27::2:30#53
+error (network unreachable) resolving 'dlv.isc.org/DNSKEY/IN': 2001:4f8:0:2::19#53
+error (network unreachable) resolving './NS/IN': 2001:503:c27::2:30#53
+error (network unreachable) resolving 'dlv.isc.org/DNSKEY/IN': 2001:500:60::30#53
+error (network unreachable) resolving 'ns1.isc.ultradns.net/A/IN': 2610:a1:1015::1#53
+error (network unreachable) resolving 'dlv.isc.org/DNSKEY/IN': 2001:4f8:0:2::20#53
+error (network unreachable) resolving 'ns1.isc.ultradns.net/A/IN': 2001:502:4612::1#53
+error (network unreachable) resolving 'ns1.isc.ultradns.net/AAAA/IN': 2001:502:4612::1#53
+error (network unreachable) resolving 'dlv.isc.org/DNSKEY/IN': 2001:4f8:0:2::19#53
+error (network unreachable) resolving 'dlv.isc.org/DNSKEY/IN': 2001:4f8:0:2::20#53
+error (network unreachable) resolving 'dlv.isc.org/DNSKEY/IN': 2001:500:60::29#53
+error (network unreachable) resolving 'dlv.isc.org/DNSKEY/IN': 2001:500:60::29#53
+error (network unreachable) resolving 'ns1.isc.ultradns.net/A/IN': 2610:a1:1016::1#53
+error (network unreachable) resolving 'ns1.isc.ultradns.net/AAAA/IN': 2610:a1:1016::1#53
+error (network unreachable) resolving './DNSKEY/IN': 2001:503:ba3e::2:30#53
+error (network unreachable) resolving './NS/IN': 2001:503:ba3e::2:30#53
+error (network unreachable) resolving 'dlv.isc.org/DNSKEY/IN': 2001:500:60::29#53
+error (network unreachable) resolving 'dlv.isc.org/DNSKEY/IN': 2001:4f8:0:2::19#53
+error (network unreachable) resolving 'dlv.isc.org/DNSKEY/IN': 2001:500:71::30#53
+error (network unreachable) resolving 'dlv.isc.org/DNSKEY/IN': 2001:500:60::30#53
+error (network unreachable) resolving './DNSKEY/IN': 2001:dc3::35#53
+error (network unreachable) resolving './NS/IN': 2001:dc3::35#53
+error (network unreachable) resolving 'dlv.isc.org/DNSKEY/IN': 2001:500:71::30#53
+error (network unreachable) resolving 'dlv.isc.org/DNSKEY/IN': 2001:500:71::29#53
+error (network unreachable) resolving 'dlv.isc.org/DNSKEY/IN': 2001:4f8:0:2::19#53
+error (network unreachable) resolving 'dlv.isc.org/DNSKEY/IN': 2001:500:71::30#53
+error (network unreachable) resolving 'dlv.isc.org/DNSKEY/IN': 2001:500:60::30#53
+error (network unreachable) resolving 'dlv.isc.org/DNSKEY/IN': 2001:500:60::30#53
+error (network unreachable) resolving 'dlv.isc.org/DNSKEY/IN': 2001:4f8:0:2::19#53
+error (network unreachable) resolving 'dlv.isc.org/DNSKEY/IN': 2001:500:2c::254#53
+error (network unreachable) resolving 'dlv.isc.org/DNSKEY/IN': 2001:500:71::30#53
+error (network unreachable) resolving './DNSKEY/IN': 2001:500:1::803f:235#53
+error (network unreachable) resolving './NS/IN': 2001:500:1::803f:235#53
+error (network unreachable) resolving 'dlv.isc.org/DNSKEY/IN': 2001:4f8:0:2::20#53
+error (network unreachable) resolving 'ns1.isc.ultradns.net/A/IN': 2610:a1:1014::1#53
+error (network unreachable) resolving 'ns1.isc.ultradns.net/AAAA/IN': 2610:a1:1014::1#53
+error (network unreachable) resolving 'ns1.isc.ultradns.net/AAAA/IN': 2610:a1:1015::1#53
+error (network unreachable) resolving 'ns2.isc.ultradns.net/A/IN': 2610:a1:1015::1#53
+error (network unreachable) resolving 'dlv.isc.org/DNSKEY/IN': 2001:4f8:0:2::19#53
+error (network unreachable) resolving 'dlv.isc.org/DNSKEY/IN': 2001:500:60::30#53
+error (network unreachable) resolving 'dlv.isc.org/DNSKEY/IN': 2001:4f8:0:2::19#53
+error (network unreachable) resolving 'dlv.isc.org/DNSKEY/IN': 2001:500:71::30#53
+error (network unreachable) resolving 'dlv.isc.org/DNSKEY/IN': 2001:4f8:0:2::20#53
+error (network unreachable) resolving 'dlv.isc.org/DNSKEY/IN': 2001:500:71::29#53
+error (network unreachable) resolving 'dlv.isc.org/DNSKEY/IN': 2001:500:60::29#53
+error (network unreachable) resolving 'dlv.isc.org/DNSKEY/IN': 2001:4f8:0:2::20#53
+error (network unreachable) resolving 'dlv.isc.org/DNSKEY/IN': 2001:500:71::29#53
+error (network unreachable) resolving 'dlv.isc.org/DNSKEY/IN': 2001:500:60::30#53
+error (network unreachable) resolving 'dlv.isc.org/DNSKEY/IN': 2001:4f8:0:2::19#53
+error (network unreachable) resolving 'ns.isc.afilias-nst.info/A/IN': 2001:500:2f::f#53
+error (network unreachable) resolving 'ns.isc.afilias-nst.info/AAAA/IN': 2001:500:2f::f#53
+error (network unreachable) resolving 'ns.isc.afilias-nst.info/A/IN': 2a01:8840:7::1#53
+error (network unreachable) resolving 'ns.isc.afilias-nst.info/AAAA/IN': 2a01:8840:7::1#53
+error (network unreachable) resolving './DNSKEY/IN': 2001:dc3::35#53
+error (network unreachable) resolving 'dlv.isc.org/DNSKEY/IN': 2001:500:71::30#53
+error (network unreachable) resolving './NS/IN': 2001:dc3::35#53
+error (network unreachable) resolving 'ns1.isc.ultradns.net/A/IN': 2610:a1:1017::1#53
+error (network unreachable) resolving 'ns1.isc.ultradns.net/AAAA/IN': 2610:a1:1017::1#53
+error (network unreachable) resolving 'pdns5.ultradns.info/A/IN': 2610:a1:1016::1#53
+error (network unreachable) resolving 'pdns3.ultradns.org/AAAA/IN': 2001:502:4612::1#53
+error (network unreachable) resolving 'dlv.isc.org/DNSKEY/IN': 2001:500:71::29#53
+error (network unreachable) resolving 'dlv.isc.org/DNSKEY/IN': 2001:500:60::29#53
+error (network unreachable) resolving './DNSKEY/IN': 2001:503:ba3e::2:30#53
+error (network unreachable) resolving 'dlv.isc.org/DNSKEY/IN': 2001:500:60::30#53
+error (network unreachable) resolving './NS/IN': 2001:503:ba3e::2:30#53
+error (network unreachable) resolving 'ns1.isc.ultradns.net/A/IN': 2610:a1:1015::1#53
+error (network unreachable) resolving 'ns1.isc.ultradns.net/AAAA/IN': 2610:a1:1015::1#53
+error (network unreachable) resolving 'ns1.isc.ultradns.net/A/IN': 2001:502:f3ff::1#53
+error (network unreachable) resolving 'ns1.isc.ultradns.net/AAAA/IN': 2001:502:f3ff::1#53
+error (network unreachable) resolving 'dlv.isc.org/DNSKEY/IN': 2001:4f8:0:2::20#53
+error (network unreachable) resolving 'dlv.isc.org/DNSKEY/IN': 2001:500:71::29#53
+error (network unreachable) resolving 'dlv.isc.org/DNSKEY/IN': 2001:500:71::30#53
+error (network unreachable) resolving './DNSKEY/IN': 2001:7fd::1#53
+error (network unreachable) resolving 'dlv.isc.org/DNSKEY/IN': 2001:4f8:0:2::19#53
+error (network unreachable) resolving './NS/IN': 2001:7fd::1#53
+error (network unreachable) resolving './DNSKEY/IN': 2001:500:2f::f#53
+error (network unreachable) resolving 'dlv.isc.org/DNSKEY/IN': 2001:500:60::30#53
+error (network unreachable) resolving './NS/IN': 2001:500:2f::f#53
+error (network unreachable) resolving './DNSKEY/IN': 2001:500:1::803f:235#53
+error (network unreachable) resolving 'dlv.isc.org/DNSKEY/IN': 2001:500:71::30#53
+error (network unreachable) resolving './NS/IN': 2001:500:1::803f:235#53
+error (network unreachable) resolving 'dlv.isc.org/DNSKEY/IN': 2001:500:2c::254#53
+error (network unreachable) resolving 'dlv.isc.org/DNSKEY/IN': 2001:4f8:0:2::19#53
+error (network unreachable) resolving 'dlv.isc.org/DNSKEY/IN': 2001:4f8:0:2::20#53
+error (network unreachable) resolving 'dlv.isc.org/DNSKEY/IN': 2001:500:60::29#53
+error (network unreachable) resolving './DNSKEY/IN': 2001:500:1::803f:235#53
+error (network unreachable) resolving 'dlv.isc.org/DNSKEY/IN': 2001:500:60::30#53
+error (network unreachable) resolving './NS/IN': 2001:500:1::803f:235#53
+error (network unreachable) resolving './DNSKEY/IN': 2001:503:c27::2:30#53
+error (network unreachable) resolving 'dlv.isc.org/DNSKEY/IN': 2001:500:60::30#53
+error (network unreachable) resolving './NS/IN': 2001:503:c27::2:30#53
+error (network unreachable) resolving 'dlv.isc.org/DNSKEY/IN': 2001:500:71::30#53
+error (network unreachable) resolving 'dlv.isc.org/DNSKEY/IN': 2001:500:60::29#53
+error (network unreachable) resolving 'ns1.isc.ultradns.net/A/IN': 2610:a1:1017::1#53
+error (network unreachable) resolving 'ns1.isc.ultradns.net/AAAA/IN': 2610:a1:1017::1#53
+error (network unreachable) resolving 'ns2.isc.ultradns.net/A/IN': 2610:a1:1016::1#53
+error (network unreachable) resolving 'ns2.isc.ultradns.net/AAAA/IN': 2610:a1:1016::1#53
+error (network unreachable) resolving 'ns1.isc.ultradns.net/A/IN': 2610:a1:1016::1#53
+error (network unreachable) resolving 'ns1.isc.ultradns.net/AAAA/IN': 2610:a1:1016::1#53
+error (network unreachable) resolving 'ns2.isc.ultradns.net/A/IN': 2001:502:4612::1#53
+error (network unreachable) resolving 'ns2.isc.ultradns.net/AAAA/IN': 2001:502:4612::1#53
+error (network unreachable) resolving 'ns1.isc.ultradns.net/A/IN': 2001:502:4612::1#53
+error (network unreachable) resolving 'ns1.isc.ultradns.net/AAAA/IN': 2001:502:4612::1#53
+error (network unreachable) resolving './DNSKEY/IN': 2001:503:c27::2:30#53
+error (network unreachable) resolving './NS/IN': 2001:503:c27::2:30#53
+error (network unreachable) resolving 'dlv.isc.org/DNSKEY/IN': 2001:500:71::30#53
+error (network unreachable) resolving 'dlv.isc.org/DNSKEY/IN': 2001:500:60::30#53
+error (network unreachable) resolving 'dlv.isc.org/DNSKEY/IN': 2001:4f8:0:2::19#53
+error (network unreachable) resolving 'dlv.isc.org/DNSKEY/IN': 2001:500:60::30#53
+error (network unreachable) resolving 'ns1.isc.ultradns.net/A/IN': 2610:a1:1014::1#53
+error (network unreachable) resolving 'ns1.isc.ultradns.net/AAAA/IN': 2610:a1:1014::1#53
+error (network unreachable) resolving 'dlv.isc.org/DNSKEY/IN': 2001:500:60::29#53
+error (network unreachable) resolving 'dlv.isc.org/DNSKEY/IN': 2001:500:71::29#53
+error (network unreachable) resolving './DNSKEY/IN': 2001:500:1::803f:235#53
+error (network unreachable) resolving 'dlv.isc.org/DNSKEY/IN': 2001:4f8:0:2::19#53
+error (network unreachable) resolving './NS/IN': 2001:500:1::803f:235#53
+error (network unreachable) resolving 'dlv.isc.org/DNSKEY/IN': 2001:500:71::29#53
+error (network unreachable) resolving 'dlv.isc.org/DNSKEY/IN': 2001:4f8:0:2::20#53
+error (network unreachable) resolving 'ns1.isc.ultradns.net/A/IN': 2610:a1:1015::1#53
+error (network unreachable) resolving 'ns1.isc.ultradns.net/AAAA/IN': 2610:a1:1015::1#53
+error (network unreachable) resolving 'dlv.isc.org/DNSKEY/IN': 2001:500:60::29#53
+error (network unreachable) resolving 'dlv.isc.org/DNSKEY/IN': 2001:500:60::30#53
+error (network unreachable) resolving 'dlv.isc.org/DNSKEY/IN': 2001:4f8:0:2::19#53
+error (network unreachable) resolving 'dlv.isc.org/DNSKEY/IN': 2001:500:2c::254#53
+error (network unreachable) resolving 'dlv.isc.org/DNSKEY/IN': 2001:4f8:0:2::20#53
+error (network unreachable) resolving 'dlv.isc.org/DNSKEY/IN': 2001:500:71::30#53
+error (network unreachable) resolving 'dlv.isc.org/DNSKEY/IN': 2001:4f8:0:2::19#53
+error (network unreachable) resolving 'dlv.isc.org/DNSKEY/IN': 2001:500:60::30#53
+error (network unreachable) resolving 'dlv.isc.org/DNSKEY/IN': 2001:500:e::1#53
+error (network unreachable) resolving 'dlv.isc.org/DNSKEY/IN': 2001:500:c::1#53
+error (network unreachable) resolving 'dlv.isc.org/DNSKEY/IN': 2001:500:b::1#53
+error (network unreachable) resolving 'ns.isc.afilias-nst.info/A/IN': 2001:500:1b::1#53
+error (network unreachable) resolving 'ns.isc.afilias-nst.info/AAAA/IN': 2001:500:1b::1#53
+error (network unreachable) resolving 'ns.isc.afilias-nst.info/A/IN': 2001:500:6::79#53
+error (network unreachable) resolving 'dlv.isc.org/DNSKEY/IN': 2001:4f8:0:2::20#53
+error (network unreachable) resolving 'dlv.isc.org/DNSKEY/IN': 2001:4f8:0:2::19#53
+error (network unreachable) resolving 'dlv.isc.org/DNSKEY/IN': 2001:500:60::29#53
+error (network unreachable) resolving 'dlv.isc.org/DNSKEY/IN': 2001:4f8:0:2::20#53
+error (network unreachable) resolving 'dlv.isc.org/DNSKEY/IN': 2001:500:2c::254#53
+error (network unreachable) resolving './DNSKEY/IN': 2001:7fd::1#53
+error (network unreachable) resolving './NS/IN': 2001:7fd::1#53
+error (network unreachable) resolving 'pdns5.ultradns.info/A/IN': 2001:500:49::1#53
+error (network unreachable) resolving 'pdns5.ultradns.info/AAAA/IN': 2001:500:49::1#53
+error (network unreachable) resolving 'pdns4.ultradns.org/AAAA/IN': 2610:a1:1015::1#53
+error (network unreachable) resolving 'pdns4.ultradns.org/A/IN': 2610:a1:1015::1#53
+error (network unreachable) resolving 'pdns4.ultradns.org/A/IN': 2610:a1:1016::1#53
+error (network unreachable) resolving 'dlv.isc.org/DNSKEY/IN': 2001:500:60::30#53
+error (network unreachable) resolving 'dlv.isc.org/DNSKEY/IN': 2001:500:71::30#53
+error (network unreachable) resolving 'dlv.isc.org/DNSKEY/IN': 2001:4f8:0:2::19#53
+error (network unreachable) resolving 'dlv.isc.org/DNSKEY/IN': 2001:500:71::30#53
+error (network unreachable) resolving 'dlv.isc.org/DNSKEY/IN': 2001:500:60::30#53
+error (network unreachable) resolving 'dlv.isc.org/DNSKEY/IN': 2001:4f8:0:2::19#53
+error (network unreachable) resolving './DNSKEY/IN': 2001:503:c27::2:30#53
+error (network unreachable) resolving './NS/IN': 2001:503:c27::2:30#53
+error (network unreachable) resolving 'ns1.isc.ultradns.net/A/IN': 2001:502:4612::1#53
+error (network unreachable) resolving 'ns1.isc.ultradns.net/AAAA/IN': 2001:502:4612::1#53
+received control channel command 'stop'
+shutting down: flushing changes
+stopping command channel on 127.0.0.1#953
+stopping command channel on ::1#953
+no longer listening on 127.0.0.1#53
+no longer listening on ::1#53
+exiting
+zone 0.in-addr.arpa/IN: loaded serial 0
+zone 1.0.0.127.in-addr.arpa/IN: loaded serial 0
+zone 7.16.172.in-addr.arpa/IN: loaded serial 200405190
+zone 1.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.ip6.arpa/IN: loaded serial 0
+zone localhost.localdomain/IN: loaded serial 0
+zone localhost/IN: loaded serial 0
+zone amitksh.net/IN: loaded serial 200405191
+managed-keys-zone ./IN: loaded serial 261
+running
+error (network unreachable) resolving 'ns.isc.afilias-nst.info/A/IN': 2001:500:6::79#53
+error (network unreachable) resolving 'ns.isc.afilias-nst.info/A/IN': 2a01:8840:7::1#53
+error (network unreachable) resolving 'ns.isc.afilias-nst.info/A/IN': 2a01:8840:9::1#53
+error (network unreachable) resolving 'ns1.isc.ultradns.net/A/IN': 2001:502:f3ff::1#53
+error (network unreachable) resolving 'ns1.isc.ultradns.net/A/IN': 2610:a1:1014::1#53
+error (network unreachable) resolving 'pdns3.ultradns.org/A/IN': 2001:500:e::1#53
+error (network unreachable) resolving 'pdns3.ultradns.org/AAAA/IN': 2001:500:e::1#53
+error (network unreachable) resolving 'pdns4.ultradns.org/A/IN': 2001:500:48::1#53
+error (network unreachable) resolving 'pdns4.ultradns.org/AAAA/IN': 2001:500:48::1#53
+error (network unreachable) resolving 'pdns5.ultradns.info/A/IN': 2001:500:41::1#53
+error (network unreachable) resolving 'pdns5.ultradns.info/AAAA/IN': 2001:500:41::1#53
+error (network unreachable) resolving 'pdns3.ultradns.org/A/IN': 2001:500:48::1#53
+error (network unreachable) resolving 'pdns3.ultradns.org/AAAA/IN': 2001:500:48::1#53
+error (network unreachable) resolving 'com/DS/IN': 2001:500:1::803f:235#53
+error (network unreachable) resolving 'google.com/DS/IN': 2001:503:a83e::2:30#53
+received control channel command 'stop'
+shutting down: flushing changes
+stopping command channel on 127.0.0.1#953
+stopping command channel on ::1#953
+no longer listening on 127.0.0.1#53
+no longer listening on ::1#53
+exiting
+zone 0.in-addr.arpa/IN: loaded serial 0
+zone 1.0.0.127.in-addr.arpa/IN: loaded serial 0
+zone 7.16.172.in-addr.arpa/IN: loaded serial 200405190
+zone 1.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.ip6.arpa/IN: loaded serial 0
+zone localhost.localdomain/IN: loaded serial 0
+zone localhost/IN: loaded serial 0
+zone amitksh.net/IN: loaded serial 200405191
+managed-keys-zone ./IN: loaded serial 263
+running
+error (network unreachable) resolving 'www.google.com/A/IN': 2001:7fd::1#53
+error (network unreachable) resolving 'www.google.com/A/IN': 2001:503:a83e::2:30#53
+error (network unreachable) resolving './DNSKEY/IN': 2001:503:ba3e::2:30#53
+error (network unreachable) resolving 'www.google.com.dlv.isc.org/DLV/IN': 2001:dc3::35#53
+error (network unreachable) resolving 'www.google.com.dlv.isc.org/DLV/IN': 2001:500:40::1#53
+error (network unreachable) resolving 'www.google.com.dlv.isc.org/DLV/IN': 2001:500:e::1#53
+error (network unreachable) resolving 'www.google.com.dlv.isc.org/DLV/IN': 2001:500:60::30#53
+error (network unreachable) resolving 'www.google.com.dlv.isc.org/DLV/IN': 2001:4f8:0:2::20#53
+error (network unreachable) resolving 'ns.isc.afilias-nst.info/AAAA/IN': 2001:500:1b::1#53
+error (network unreachable) resolving 'ns.isc.afilias-nst.info/AAAA/IN': 2a01:8840:7::1#53
+error (network unreachable) resolving 'pdns5.ultradns.info/A/IN': 2610:a1:1014::1#53
+error (network unreachable) resolving 'ns2.isc.ultradns.net/A/IN': 2610:a1:1014::1#53
+error (network unreachable) resolving 'ns2.isc.ultradns.net/A/IN': 2001:502:f3ff::1#53
+error (network unreachable) resolving 'www.yahoo.com.dlv.isc.org/DLV/IN': 2001:502:ad09::23#53
+received control channel command 'stop'
+shutting down: flushing changes
+stopping command channel on 127.0.0.1#953
+stopping command channel on ::1#953
+no longer listening on 127.0.0.1#53
+no longer listening on 172.16.7.7#53
+no longer listening on ::1#53
+exiting
+zone 0.in-addr.arpa/IN: loaded serial 0
+zone 1.0.0.127.in-addr.arpa/IN: loaded serial 0
+zone 7.16.172.in-addr.arpa/IN: loaded serial 200405190
+zone 1.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.ip6.arpa/IN: loaded serial 0
+zone localhost.localdomain/IN: loaded serial 0
+zone localhost/IN: loaded serial 0
+zone amitksh.net/IN: loaded serial 200405191
+managed-keys-zone ./IN: loaded serial 263
+running
+error (network unreachable) resolving 'com/DS/IN': 2001:7fd::1#53
+error (network unreachable) resolving 'com/DS/IN': 2001:500:1::803f:235#53
+error (network unreachable) resolving 'www.google.com.dlv.isc.org/DLV/IN': 2001:500:e::1#53
+error (network unreachable) resolving 'ns.isc.afilias-nst.info/A/IN': 2001:500:6::79#53
+error (network unreachable) resolving 'ns.isc.afilias-nst.info/A/IN': 2a01:8840:9::1#53
+error (network unreachable) resolving 'www.google.com.dlv.isc.org/DLV/IN': 2001:500:60::29#53
+error (network unreachable) resolving 'www.google.com.dlv.isc.org/DLV/IN': 2001:4f8:0:2::20#53
+error (network unreachable) resolving 'www.google.com.dlv.isc.org/DLV/IN': 2001:500:71::29#53
+error (network unreachable) resolving 'pdns3.ultradns.org/A/IN': 2001:500:48::1#53
+error (network unreachable) resolving 'pdns3.ultradns.org/AAAA/IN': 2001:500:48::1#53
+error (network unreachable) resolving 'pdns4.ultradns.org/A/IN': 2001:500:b::1#53
+error (network unreachable) resolving 'pdns4.ultradns.org/AAAA/IN': 2001:500:b::1#53
+error (network unreachable) resolving 'pdns3.ultradns.org/A/IN': 2001:500:b::1#53
+error (network unreachable) resolving 'pdns3.ultradns.org/AAAA/IN': 2001:500:b::1#53
+error (network unreachable) resolving 'pdns4.ultradns.org/A/IN': 2001:500:40::1#53
+error (network unreachable) resolving 'pdns4.ultradns.org/AAAA/IN': 2001:500:40::1#53
+error (network unreachable) resolving 'pdns3.ultradns.org/A/IN': 2001:500:40::1#53
+error (network unreachable) resolving 'pdns3.ultradns.org/AAAA/IN': 2001:500:40::1#53
+error (network unreachable) resolving 'pdns4.ultradns.org/AAAA/IN': 2001:502:f3ff::1#53
+error (network unreachable) resolving 'pdns4.ultradns.org/AAAA/IN': 2001:502:4612::1#53
+error (network unreachable) resolving 'pdns6.ultradns.co.uk/AAAA/IN': 2610:a1:1017::1#53
+error (network unreachable) resolving 'www.snapdela.com/A/IN': 2001:503:a83e::2:30#53
+error (network unreachable) resolving 'www.snapdela.com.dlv.isc.org/DLV/IN': 2001:500:2c::254#53
+error (network unreachable) resolving 'www.snapdela.com.dlv.isc.org/DLV/IN': 2001:502:2eda::23#53
+error (network unreachable) resolving 'www.snapdela.com.dlv.isc.org/DLV/IN': 2001:502:ad09::23#53
+error (network unreachable) resolving 'www.snapdeal.com/A/IN': 2001:502:f3ff::69#53
+error (network unreachable) resolving 'bdns1.ultradns.net/A/IN': 2610:a1:1015::1#53
+error (network unreachable) resolving 'bdns1.ultradns.net/AAAA/IN': 2610:a1:1015::1#53
+error (network unreachable) resolving 'net/DNSKEY/IN': 2001:503:231d::2:30#53
+error (network unreachable) resolving 'ns1.msft.net/A/IN': 2a01:111:2005::1:1#53
+error (network unreachable) resolving 'ns1.msft.net/A/IN': 2a01:111:2020::1:1#53
+error (network unreachable) resolving 'ns-911.amazon.com/A/IN': 2610:a1:1014::1#53
+error (network unreachable) resolving 'ns-911.amazon.com/A/IN': 2610:a1:1016::1#53
+error (network unreachable) resolving 'ns2.p31.dynect.net/A/IN': 2001:500:94::100#53
+error (network unreachable) resolving 'ns2.p31.dynect.net/AAAA/IN': 2001:500:94::100#53
+error (network unreachable) resolving 'ns3.p31.dynect.net/A/IN': 2001:500:90::100#53
+error (network unreachable) resolving 'ns3.p31.dynect.net/AAAA/IN': 2001:500:90::100#53
+error (network unreachable) resolving 'ns1.p31.dynect.net/A/IN': 2001:500:94::100#53
+error (network unreachable) resolving 'ns1.p31.dynect.net/AAAA/IN': 2001:500:94::100#53
+error (network unreachable) resolving 'ns1.p31.dynect.net/A/IN': 2001:500:90::100#53
+error (network unreachable) resolving 'ns2.p31.dynect.net/A/IN': 2001:500:90::100#53
+error (network unreachable) resolving 'ns2.p31.dynect.net/AAAA/IN': 2001:500:90::100#53
+error (network unreachable) resolving 'ns1.p31.dynect.net/AAAA/IN': 2001:500:90::100#53
+client 172.16.7.8#39572: query (cache) 'www.google.com/A/IN' denied
+client 172.16.7.8#51953: query 'www.google.com.amitksh.net/A/IN' denied
+client 172.16.7.8#40013: query (cache) 'host1.amitksh.nwt/A/IN' denied
+client 172.16.7.8#37760: query 'host1.amitksh.nwt.amitksh.net/A/IN' denied
+client 172.16.7.8#56701: query 'host1.amitksh.net/A/IN' denied
+client 172.16.7.8#35051: query 'host1.amitksh.net.amitksh.net/A/IN' denied
+client 172.16.7.8#49270: query (cache) '0.amazon.pool.ntp.org/A/IN' denied
+client 172.16.7.8#49270: query (cache) '0.amazon.pool.ntp.org/AAAA/IN' denied
+client 172.16.7.8#42420: query '0.amazon.pool.ntp.org.amitksh.net/A/IN' denied
+client 172.16.7.8#42420: query '0.amazon.pool.ntp.org.amitksh.net/AAAA/IN' denied
+client 172.16.7.8#34550: query (cache) '1.amazon.pool.ntp.org/A/IN' denied
+client 172.16.7.8#34550: query (cache) '1.amazon.pool.ntp.org/AAAA/IN' denied
+client 172.16.7.8#33744: query '1.amazon.pool.ntp.org.amitksh.net/A/IN' denied
+client 172.16.7.8#33744: query '1.amazon.pool.ntp.org.amitksh.net/AAAA/IN' denied
+client 172.16.7.8#47839: query (cache) '2.amazon.pool.ntp.org/A/IN' denied
+client 172.16.7.8#47839: query (cache) '2.amazon.pool.ntp.org/AAAA/IN' denied
+client 172.16.7.8#44970: query '2.amazon.pool.ntp.org.amitksh.net/A/IN' denied
+client 172.16.7.8#44970: query '2.amazon.pool.ntp.org.amitksh.net/AAAA/IN' denied
+client 172.16.7.8#59909: query (cache) '3.amazon.pool.ntp.org/A/IN' denied
+client 172.16.7.8#59909: query (cache) '3.amazon.pool.ntp.org/AAAA/IN' denied
+client 172.16.7.8#39019: query '3.amazon.pool.ntp.org.amitksh.net/A/IN' denied
+client 172.16.7.8#39019: query '3.amazon.pool.ntp.org.amitksh.net/AAAA/IN' denied
+received control channel command 'stop'
+shutting down: flushing changes
+stopping command channel on 127.0.0.1#953
+stopping command channel on ::1#953
+no longer listening on 127.0.0.1#53
+no longer listening on 172.16.7.7#53
+no longer listening on ::1#53
+exiting
+zone 0.in-addr.arpa/IN: loaded serial 0
+zone 1.0.0.127.in-addr.arpa/IN: loaded serial 0
+zone 7.16.172.in-addr.arpa/IN: loaded serial 200405190
+zone 1.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.ip6.arpa/IN: loaded serial 0
+zone localhost.localdomain/IN: loaded serial 0
+zone localhost/IN: loaded serial 0
+zone amitksh.net/IN: loaded serial 200405191
+managed-keys-zone ./IN: loaded serial 263
+running
+error (network unreachable) resolving 'ns1.isc.ultradns.net/A/IN': 2001:503:ba3e::2:30#53
+error (network unreachable) resolving 'ns1.isc.ultradns.net/AAAA/IN': 2001:503:ba3e::2:30#53
+error (network unreachable) resolving 'pdns3.ultradns.org/A/IN': 2001:500:c::1#53
+error (network unreachable) resolving 'pdns3.ultradns.org/AAAA/IN': 2001:500:c::1#53
+error (network unreachable) resolving 'pdns6.ultradns.co.uk/A/IN': 2001:500:1::803f:235#53
+error (network unreachable) resolving 'pdns6.ultradns.co.uk/AAAA/IN': 2001:500:1::803f:235#53
+error (network unreachable) resolving 'ns.isc.afilias-nst.info/AAAA/IN': 2a01:8840:8::1#53
+error (network unreachable) resolving 'ns.isc.afilias-nst.info/AAAA/IN': 2a01:8840:9::1#53
+error (network unreachable) resolving 'ns.isc.afilias-nst.info/AAAA/IN': 2a01:8840:7::1#53
+error (network unreachable) resolving 'ns.isc.afilias-nst.info/AAAA/IN': 2001:500:6::79#53
+error (network unreachable) resolving 'pdns6.ultradns.co.uk/AAAA/IN': 2610:a1:1014::1#53
+error (network unreachable) resolving 'pdns6.ultradns.co.uk/A/IN': 2610:a1:1014::1#53
+error (network unreachable) resolving 'pdns5.ultradns.info/A/IN': 2610:a1:1016::1#53
+error (network unreachable) resolving 'a.ntpns.org/A/IN': 2001:500:48::1#53
+error (network unreachable) resolving 'a.ntpns.org/AAAA/IN': 2001:500:48::1#53
+error (network unreachable) resolving 'b.ntpns.org/A/IN': 2001:500:48::1#53
+error (network unreachable) resolving 'b.ntpns.org/AAAA/IN': 2001:500:48::1#53
+error (network unreachable) resolving 'c.ntpns.org/A/IN': 2001:500:48::1#53
+error (network unreachable) resolving 'c.ntpns.org/AAAA/IN': 2001:500:48::1#53
+error (network unreachable) resolving 'd.ntpns.org/A/IN': 2001:500:48::1#53
+error (network unreachable) resolving 'd.ntpns.org/AAAA/IN': 2001:500:48::1#53
+error (network unreachable) resolving 'e.ntpns.org/A/IN': 2001:500:48::1#53
+error (network unreachable) resolving 'e.ntpns.org/AAAA/IN': 2001:500:48::1#53
+error (network unreachable) resolving 'f.ntpns.org/A/IN': 2001:500:48::1#53
+error (network unreachable) resolving 'f.ntpns.org/AAAA/IN': 2001:500:48::1#53
+error (network unreachable) resolving 'g.ntpns.org/A/IN': 2001:500:48::1#53
+error (network unreachable) resolving 'g.ntpns.org/AAAA/IN': 2001:500:48::1#53
+error (network unreachable) resolving 'h.ntpns.org/A/IN': 2001:500:48::1#53
+error (network unreachable) resolving 'h.ntpns.org/AAAA/IN': 2001:500:48::1#53
+error (network unreachable) resolving 'i.ntpns.org/A/IN': 2001:500:48::1#53
+error (network unreachable) resolving 'i.ntpns.org/AAAA/IN': 2001:500:48::1#53
+error (network unreachable) resolving 'ns3.p20.dynect.net/AAAA/IN': 2001:500:94::100#53
+error (network unreachable) resolving 'org/DNSKEY/IN': 2001:500:b::1#53
+error (network unreachable) resolving 'org/DNSKEY/IN': 2001:500:f::1#53
+error (network unreachable) resolving 'org/DNSKEY/IN': 2001:500:e::1#53
+error (network unreachable) resolving 'org/DNSKEY/IN': 2001:500:40::1#53
+error (connection refused) resolving '3.amazon.pool.ntp.org/A/IN': 69.41.163.30#53
+error (connection refused) resolving '3.amazon.pool.ntp.org/AAAA/IN': 69.41.163.30#53
+error (network unreachable) resolving 'microsoft.com/MX/IN': 2001:503:a83e::2:30#53
+error (network unreachable) resolving 'microsoft.com/MX/IN': 2001:503:231d::2:30#53
+error (network unreachable) resolving 'ns5.msft.net/A/IN': 2a01:111:2005::1:1#53
+error (network unreachable) resolving 'ns5.msft.net/A/IN': 2a01:111:200f:1::1:1#53
+error (network unreachable) resolving 'microsoft.com/MX/IN': 2a01:111:2006:6::1:1#53
+error (network unreachable) resolving 'microsoft.com/MX/IN': 2404:f800:2003::1:1#53
+error (network unreachable) resolving 'microsoft.com.dlv.isc.org/DLV/IN': 2001:502:2eda::23#53
+error (network unreachable) resolving 'microsoft.com.dlv.isc.org/DLV/IN': 2001:500:60::29#53
+error (network unreachable) resolving 'ns-1858.awsdns-40.co.uk/A/IN': 2a01:40:1001:35::2#53
+error (network unreachable) resolving 'ns-1858.awsdns-40.co.uk/AAAA/IN': 2a01:40:1001:35::2#53
+error (network unreachable) resolving '6.222.137.46.in-addr.arpa/PTR/IN': 2001:503:c27::2:30#53
+error (network unreachable) resolving '6.222.137.46.in-addr.arpa/PTR/IN': 2001:500:13::73#53
+error (network unreachable) resolving '6.222.137.46.in-addr.arpa/PTR/IN': 2001:67c:e0::1#53
+error (network unreachable) resolving 'tinnie.arin.net/AAAA/IN': 2001:5a0:10::2#53
+error (network unreachable) resolving '6.222.137.46.in-addr.arpa/PTR/IN': 2001:502:4612::1#53
+error (network unreachable) resolving 'arpa/DS/IN': 2001:500:2f::f#53
+error (network unreachable) resolving 'arpa/DNSKEY/IN': 2001:7fd::1#53
+error (network unreachable) resolving '46.in-addr.arpa/DS/IN': 2001:13c7:7010::53#53
+error (network unreachable) resolving '137.46.in-addr.arpa/DS/IN': 2001:500:2e::1#53
+error (network unreachable) resolving '46.in-addr.arpa/DNSKEY/IN': 2001:dc0:1:0:4777::140#53
+error (network unreachable) resolving '46.in-addr.arpa/DNSKEY/IN': 2001:500:13::c7d4:35#53
+error (network unreachable) resolving '6.222.137.46.in-addr.arpa.dlv.isc.org/DLV/IN': 2001:502:ad09::23#53
+error (network unreachable) resolving '6.222.137.46.in-addr.arpa.dlv.isc.org/DLV/IN': 2001:500:2c::254#53
+error (network unreachable) resolving '6.222.137.46.in-addr.arpa.dlv.isc.org/DLV/IN': 2001:500:71::29#53
+error (network unreachable) resolving '6.222.137.46.in-addr.arpa.dlv.isc.org/DLV/IN': 2001:4f8:0:2::20#53
+error (network unreachable) resolving 'ns1.p08.dynect.net/A/IN': 2001:500:90::100#53
+error (network unreachable) resolving 'ns1.p08.dynect.net/AAAA/IN': 2001:500:90::100#53
+received control channel command 'stop'
+shutting down: flushing changes
+stopping command channel on 127.0.0.1#953
+stopping command channel on ::1#953
+no longer listening on 127.0.0.1#53
+no longer listening on 172.16.7.7#53
+no longer listening on ::1#53
+exiting
+zone 0.in-addr.arpa/IN: loaded serial 0
+zone 1.0.0.127.in-addr.arpa/IN: loaded serial 0
+zone 7.16.172.in-addr.arpa/IN: loaded serial 200405190
+zone 1.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.ip6.arpa/IN: loaded serial 0
+zone localhost.localdomain/IN: loaded serial 0
+zone localhost/IN: loaded serial 0
+zone amitksh.net/IN: loaded serial 200405191
+managed-keys-zone ./IN: loaded serial 263
+running
+error (network unreachable) resolving 'www.ixigo.com/A/IN': 2001:500:2d::d#53
+error (network unreachable) resolving 'ns1.p08.dynect.net/A/IN': 2001:500:2f::f#53
+error (network unreachable) resolving 'ns1.p08.dynect.net/AAAA/IN': 2001:500:2f::f#53
+error (network unreachable) resolving 'ns1.p08.dynect.net/A/IN': 2001:503:a83e::2:30#53
+error (network unreachable) resolving 'ns1.p08.dynect.net/A/IN': 2001:503:231d::2:30#53
+error (network unreachable) resolving 'www.ixigo.com.dlv.isc.org/DLV/IN': 2001:500:48::1#53
+error (network unreachable) resolving 'www.ixigo.com.dlv.isc.org/DLV/IN': 2001:4f8:0:2::20#53
+error (network unreachable) resolving 'www.ixigo.com.dlv.isc.org/DLV/IN': 2001:500:71::29#53
+error (network unreachable) resolving 'www.ixigo.com.dlv.isc.org/DLV/IN': 2001:500:60::29#53
+error (network unreachable) resolving 'ns.isc.afilias-nst.info/A/IN': 2a01:8840:7::1#53
+error (network unreachable) resolving 'ns1.isc.ultradns.net/A/IN': 2001:502:f3ff::1#53
+error (network unreachable) resolving 'ns1.isc.ultradns.net/A/IN': 2610:a1:1014::1#53
+error (network unreachable) resolving 'pdns3.ultradns.org/A/IN': 2001:500:f::1#53
+error (network unreachable) resolving 'pdns3.ultradns.org/AAAA/IN': 2001:500:f::1#53
+error (network unreachable) resolving 'pdns5.ultradns.info/A/IN': 2001:500:41::1#53
+error (network unreachable) resolving 'pdns5.ultradns.info/AAAA/IN': 2001:500:41::1#53
+error (network unreachable) resolving 'pdns6.ultradns.co.uk/AAAA/IN': 2001:502:4612::1#53
+error (network unreachable) resolving 'pdns6.ultradns.co.uk/AAAA/IN': 2610:a1:1017::1#53
+error (network unreachable) resolving 'pdns6.ultradns.co.uk/AAAA/IN': 2610:a1:1015::1#53
+error (network unreachable) resolving 'www.amazon.com/A/IN': 2610:a1:1016::1#53
+error (network unreachable) resolving '212.194.21.72.in-addr.arpa/PTR/IN': 2001:500:13::73#53
+error (network unreachable) resolving 'v.arin.net/A/IN': 2001:5a0:10::2#53
+error (network unreachable) resolving 'v.arin.net/AAAA/IN': 2001:5a0:10::2#53
+error (network unreachable) resolving 'NS-1.AMAZON.COM/A/IN': 2001:500:94:1::31#53
+error (network unreachable) resolving 'NS-1.AMAZON.COM/AAAA/IN': 2001:500:94:1::31#53
+error (network unreachable) resolving 'in-addr.arpa/DS/IN': 2001:503:c27::2:30#53
+error (network unreachable) resolving '72.in-addr.arpa/DS/IN': 2001:43f8:110::10#53
+error (network unreachable) resolving '72.in-addr.arpa/DS/IN': 2001:13c7:7010::53#53
+error (network unreachable) resolving '72.in-addr.arpa/DS/IN': 2001:500:87::87#53
+error (network unreachable) resolving '72.in-addr.arpa/DS/IN': 2001:67c:e0::1#53
+error (network unreachable) resolving 'in-addr.arpa/DNSKEY/IN': 2001:dd8:6::101#53
+error (network unreachable) resolving '194.21.72.in-addr.arpa/DS/IN': 2001:500:31::63#53
+error (network unreachable) resolving '194.21.72.in-addr.arpa/DS/IN': 2001:500:13::63#53
+error (network unreachable) resolving '194.21.72.in-addr.arpa/DS/IN': 2001:500:14:6050:ad::1#53
+error (network unreachable) resolving '194.21.72.in-addr.arpa.dlv.isc.org/DLV/IN': 2001:502:2eda::23#53
+error (network unreachable) resolving '194.21.72.in-addr.arpa.dlv.isc.org/DLV/IN': 2001:500:2c::254#53
+error (network unreachable) resolving '194.21.72.in-addr.arpa.dlv.isc.org/DLV/IN': 2001:502:ad09::23#53
+error (network unreachable) resolving 'net/DS/IN': 2001:dc3::35#53
+error (network unreachable) resolving 'net/DS/IN': 2001:500:1::803f:235#53
+received control channel command 'stop'
+shutting down: flushing changes
+stopping command channel on 127.0.0.1#953
+stopping command channel on ::1#953
+no longer listening on 127.0.0.1#53
+no longer listening on 172.16.7.7#53
+no longer listening on ::1#53
+exiting
+zone 0.in-addr.arpa/IN: loaded serial 0
+zone 1.0.0.127.in-addr.arpa/IN: loaded serial 0
+zone 7.16.172.in-addr.arpa/IN: loaded serial 200405190
+zone 1.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.ip6.arpa/IN: loaded serial 0
+zone localhost.localdomain/IN: loaded serial 0
+zone localhost/IN: loaded serial 0
+zone amitksh.net/IN: loaded serial 200405191
+managed-keys-zone ./IN: loaded serial 263
+running
+received control channel command 'stop'
+shutting down: flushing changes
+stopping command channel on 127.0.0.1#953
+no longer listening on 127.0.0.1#53
+no longer listening on 172.16.7.7#53
+exiting
+zone 0.in-addr.arpa/IN: loaded serial 0
+zone 1.0.0.127.in-addr.arpa/IN: loaded serial 0
+zone 7.16.172.in-addr.arpa/IN: loaded serial 200405190
+zone 1.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.ip6.arpa/IN: loaded serial 0
+zone localhost.localdomain/IN: loaded serial 0
+zone localhost/IN: loaded serial 0
+zone amitksh.net/IN: loaded serial 200405191
+managed-keys-zone ./IN: loaded serial 277
+running

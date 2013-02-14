@@ -1,0 +1,19 @@
+;
+; reverse pointers for 10.11.12.0 subnet
+;
+$ORIGIN 7.16.172.in-addr.arpa.
+$TTL 1D
+@     IN SOA  ns1.amitksh.net. hostmaster.amitksh.net. (
+              200405190  ; serial
+              28800      ; refresh (8 hours)
+              14400      ; retry (4 hours)
+              2419200    ; expire (4 weeks)
+              86400      ; minimum (1 day)
+              )
+; define the authoritative name server
+              NS      ns1.amitksh.net.
+; our hosts, in numeric order
+7             PTR     ns1.amitksh.net.
+8             PTR     host1.amitksh.net.
+9             PTR     host2.amitksh.net.
+10	PTR	host3.amitksh.net
