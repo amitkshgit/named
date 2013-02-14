@@ -584,6 +584,7 @@ zone localhost/IN: loaded serial 0
 zone amitksh.net/IN: loaded serial 200405191
 managed-keys-zone ./IN: loaded serial 263
 running
+<<<<<<< HEAD
 received control channel command 'stop'
 shutting down: flushing changes
 stopping command channel on 127.0.0.1#953
@@ -599,3 +600,5 @@ zone localhost/IN: loaded serial 0
 zone amitksh.net/IN: loaded serial 200405191
 managed-keys-zone ./IN: loaded serial 277
 running
+=======
+>>>>>>> e15ac8b6a71a6328ac3c62b89ebcc83d40c3a463

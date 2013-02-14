@@ -1,13 +1,21 @@
 $ORIGIN .
 $TTL 0	; 0 seconds
 @			IN SOA	. . (
+<<<<<<< HEAD
 				279        ; serial
+=======
+				277        ; serial
+>>>>>>> e15ac8b6a71a6328ac3c62b89ebcc83d40c3a463
 				0          ; refresh (0 seconds)
 				0          ; retry (0 seconds)
 				0          ; expire (0 seconds)
 				0          ; minimum (0 seconds)
 				)
+<<<<<<< HEAD
 			KEYDATA	20130215185419 20130208053942 19700101000000 257 3 8 (
+=======
+			KEYDATA	20130215173359 20130208053942 19700101000000 257 3 8 (
+>>>>>>> e15ac8b6a71a6328ac3c62b89ebcc83d40c3a463
 				AwEAAagAIKlVZrpC6Ia7gEzahOR+9W29euxhJhVVLOyQ
 				bSEW0O8gcCjFFVQUTf6v58fLjwBd0YI0EzrAcQqBGCzh
 				/RStIoO8g0NfnfL2MTJRkxoXbfDaUeVPQuYEhg37NZWA
@@ -17,7 +25,11 @@ $TTL 0	; 0 seconds
 				Yl7OyQdXfZ57relSQageu+ipAdTTJ25AsRTAoub8ONGc
 				LmqrAmRLKBP1dfwhYB4N7knNnulqQxA+Uk1ihz0=
 				) ; key id = 19036
+<<<<<<< HEAD
 dlv.isc.org		KEYDATA	20130214195420 20130208053942 19700101000000 257 3 5 (
+=======
+dlv.isc.org		KEYDATA	20130214183400 20130208053942 19700101000000 257 3 5 (
+>>>>>>> e15ac8b6a71a6328ac3c62b89ebcc83d40c3a463
 				BEAAAAPHMu/5onzrEE7z1egmhg/WPO0+juoZrW3euWEn
 				4MxDCE1+lLy2brhQv5rN32RKtMzX6Mj70jdzeND4XknW
 				58dnJNPCxn8+jAGl2FZLK8t+1uq4W+nnA3qO2+DL+k6B
