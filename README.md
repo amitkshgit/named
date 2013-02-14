@@ -12,9 +12,8 @@ I used this for creating a DNS Server in a VPC. It proxies the request it cannot
 VPC Subnet used for testing is 172.16.7.0/24. Make sure you are using the same subnet. If not change the subnet in 
 
 	- named.conf
-
 	- zone.net.yourdomainname
 
 AND
 
-Create a file to replace, revp.172.16.7 in /var/named/ 
+	- Create a file to replace, revp.172.16.7 in /var/named/ 
