@@ -1,0 +1,29 @@
+;
+; dns zone for for amitksh.net
+;
+$ORIGIN amitksh.net.
+$TTL 1D
+; any time you make a change to the domain, bump the
+; "serial" setting below. the format is easy:
+; YYYYMMDDI, with the I being an iterator in case you
+; make more than one change during any one day
+@     IN SOA   ns1 hostmaster (
+                        200405191 ; serial
+                        8H        ; refresh
+                        4H        ; retry
+                        4W        ; expire
+                        1D )      ; minimum
+; ns1.amitksh.net serves this domain as both the
+; name server (NS) and mail exchange (MX)
+                NS      ns1
+                MX      10 ns1
+; define domain functions with CNAMEs
+ftp           CNAME   stallman
+www             CNAME   cerf
+; just in case someone asks for localhost.amitksh.net
+localhost       A       127.0.0.1
+; our hostnames, in alphabetical order
+host1            A       172.16.7.8
+host2        A       172.16.7.9
+host3        A       172.16.7.10
+ns1	A	172.16.7.7
